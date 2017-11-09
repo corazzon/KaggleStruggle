@@ -1,0 +1,291 @@
+Column,Question,Asked
+GenderSelect,Select your gender identity. - Selected Choice,All
+GenderFreeForm,Select your gender identity. - A different identity - Text,All
+Country,Select the country you currently live in.,All
+Age,What's your age?,All
+EmploymentStatus,What's your current employment status?,All
+StudentStatus,Are you currently enrolled as a student at a degree granting school?,Non-worker
+LearningDataScience,Are you currently focused on learning data science skills either formally or informally?,Non-worker
+KaggleMotivationFreeForm,What's your motivation for being a Kaggle user?,Non-switcher
+CodeWriter,"Do you write code to analyze data in your current job, freelance contracts, or most recent job if retired?",Worker1
+CareerSwitcher,Are you actively looking to switch careers to data science?,Worker1
+CurrentJobTitleSelect,Select the option that's most similar to your current job/professional title (or most recent title if retired). - Selected Choice,Worker1
+CurrentJobTitleFreeForm,Select the option that's most similar to your current job/professional title (or most recent title if retired). - Other - Text,Worker1
+TitleFit,How adequately do you feel your title describes what you do (or what you did if retired)?,Worker1
+CurrentEmployerType,Which of the following describe your current employer (or most recent employer if retired)? (Select all that apply),Worker1
+MLToolNextYearSelect,Which tool or technology are you most excited about learning in the next year? (Select one option) - Selected Choice,All
+MLToolNextYearFreeForm,Which tool or technology are you most excited about learning in the next year? (Select one option) - Other - Text,All
+MLMethodNextYearSelect,Which ML/DS method are you most excited about learning in the next year? (Select one option) - Selected Choice,All
+MLMethodNextYearFreeForm,Which ML/DS method are you most excited about learning in the next year? (Select one option) - Other - Text,All
+LanguageRecommendationSelect,What programming language would you recommend a new data scientist learn first? (Select one option) - Selected Choice,All
+LanguageRecommendationFreeForm,What programming language would you recommend a new data scientist learn first? (Select one option) - Other - Text,All
+PublicDatasetsSelect,Where do you find public datasets to practice data science skills? (Select all that apply) - Selected Choice,All
+PublicDatasetsFreeForm,Where do you find public datasets to practice data science skills? (Select all that apply) - Other - Text,All
+PersonalProjectsChallengeFreeForm,What is your biggest challenge with the public datasets you find for personal projects?,All
+LearningPlatformSelect,What platforms & resources have you used to continue learning data science skills? (Select all that apply) - Selected Choice,All
+LearningPlatformCommunityFreeForm,What platforms & resources have you used to continue learning data science skills? (Select all that apply) - Non-Kaggle online communities - Text,All
+LearningPlatformFreeForm1,What platforms & resources have you used to continue learning data science skills? (Select all that apply) - Other - Text1,All
+LearningPlatformFreeForm2,What platforms & resources have you used to continue learning data science skills? (Select all that apply) - Other - Text2,All
+LearningPlatformFreeForm3,What platforms & resources have you used to continue learning data science skills? (Select all that apply) - Other - Text3,All
+LearningPlatformUsefulnessArxiv,How useful did you find these platforms & resources for learning data science skills? - Arxiv,All
+LearningPlatformUsefulnessBlogs,How useful did you find these platforms & resources for learning data science skills? - Blogs,All
+LearningPlatformUsefulnessCollege,How useful did you find these platforms & resources for learning data science skills? - College/University,All
+LearningPlatformUsefulnessCompany,How useful did you find these platforms & resources for learning data science skills? - Company internal community,All
+LearningPlatformUsefulnessConferences,How useful did you find these platforms & resources for learning data science skills? - Conferences,All
+LearningPlatformUsefulnessFriends,How useful did you find these platforms & resources for learning data science skills? - Friends network,All
+LearningPlatformUsefulnessKaggle,How useful did you find these platforms & resources for learning data science skills? - Kaggle,All
+LearningPlatformUsefulnessNewsletters,How useful did you find these platforms & resources for learning data science skills? - Newsletters,All
+LearningPlatformUsefulnessCommunities,How useful did you find these platforms & resources for learning data science skills? - Non-Kaggle online communities,All
+LearningPlatformUsefulnessCommunitiesFreeForm,How useful did you find these platforms & resources for learning data science skills? - Non-Kaggle online communities - Text,All
+LearningPlatformUsefulnessDocumentation,How useful did you find these platforms & resources for learning data science skills? - Official documentation,All
+LearningPlatformUsefulnessCourses,How useful did you find these platforms & resources for learning data science skills? - Online courses,All
+LearningPlatformUsefulnessProjects,How useful did you find these platforms & resources for learning data science skills? - Personal Projects,All
+LearningPlatformUsefulnessPodcasts,How useful did you find these platforms & resources for learning data science skills? - Podcasts,All
+LearningPlatformUsefulnessSO,How useful did you find these platforms & resources for learning data science skills? - Stack Overflow Q&A,All
+LearningPlatformUsefulnessTextbook,How useful did you find these platforms & resources for learning data science skills? - Textbook,All
+LearningPlatformUsefulnessTradeBook,How useful did you find these platforms & resources for learning data science skills? - Trade book,All
+LearningPlatformUsefulnessTutoring,How useful did you find these platforms & resources for learning data science skills? - Tutoring/mentoring,All
+LearningPlatformUsefulnessYouTube,How useful did you find these platforms & resources for learning data science skills? - YouTube Videos,All
+LearningPlatformUsefulnessFreeForm1Select,How useful did you find these platforms & resources for learning data science skills? - Other1,All
+LearningPlatformUsefulnessFreeForm1SelectFreeForm,How useful did you find these platforms & resources for learning data science skills? - Other - Text1,All
+LearningPlatformUsefulnessFreeForm2Select,How useful did you find these platforms & resources for learning data science skills? - Other2,All
+LearningPlatformUsefulnessFreeForm2SelectFreeForm,How useful did you find these platforms & resources for learning data science skills? - Other - Text2,All
+LearningPlatformUsefulnessFreeForm3Select,How useful did you find these platforms & resources for learning data science skills? - Other3,All
+LearningPlatformUsefulnessFreeForm3SelectFreeForm,How useful did you find these platforms & resources for learning data science skills? - Other - Text3,All
+BlogsPodcastsNewslettersSelect,What are your top 3 favorite data science blogs/podcasts/newsletters? (Select up to three options) - Selected Choice,All
+BlogsPodcastsNewslettersFreeForm,What are your top 3 favorite data science blogs/podcasts/newsletters? (Select up to three options) - Other (Separate different answers with semicolon) - Text,All
+LearningDataScienceTime,How long have you been learning data science?,Learners
+JobSkillImportanceBigData,How important do you think the below skills or certifications are in getting a data science job? - 'Big Data' technology,Learners
+JobSkillImportanceDegree,How important do you think the below skills or certifications are in getting a data science job? - Academic degree in related field,Learners
+JobSkillImportanceStats,How important do you think the below skills or certifications are in getting a data science job? - Advanced Statistics,Learners
+JobSkillImportanceEnterpriseTools,How important do you think the below skills or certifications are in getting a data science job? - Enterprise Tools (e.g. SAS),Learners
+JobSkillImportancePython,How important do you think the below skills or certifications are in getting a data science job? - Fluent in Python,Learners
+JobSkillImportanceR,How important do you think the below skills or certifications are in getting a data science job? - Fluent in R,Learners
+JobSkillImportanceSQL,How important do you think the below skills or certifications are in getting a data science job? - Fluent in SQL,Learners
+JobSkillImportanceKaggleRanking,How important do you think the below skills or certifications are in getting a data science job? - Kaggle ranking,Learners
+JobSkillImportanceMOOC,How important do you think the below skills or certifications are in getting a data science job? - Online certification or MOOC,Learners
+JobSkillImportanceVisualizations,How important do you think the below skills or certifications are in getting a data science job? - Visualization Tools,Learners
+JobSkillImportanceOtherSelect1,How important do you think the below skills or certifications are in getting a data science job? - Other1,Learners
+JobSkillImportanceOtherSelect1FreeForm,How important do you think the below skills or certifications are in getting a data science job? - Other - Text1,Learners
+JobSkillImportanceOtherSelect2,How important do you think the below skills or certifications are in getting a data science job? - Other2,Learners
+JobSkillImportanceOtherSelect2FreeForm,How important do you think the below skills or certifications are in getting a data science job? - Other - Text2,Learners
+JobSkillImportanceOtherSelect3,How important do you think the below skills or certifications are in getting a data science job? - Other3,Learners
+JobSkillImportanceOtherSelect3FreeForm,How important do you think the below skills or certifications are in getting a data science job? - Other - Text3,Learners
+CoursePlatformSelect,On which online platforms have you begun or completed data science courses? - Selected Choice,OnlineLearners
+CoursePlatformFreeForm,On which online platforms have you begun or completed data science courses? - Other - Text,OnlineLearners
+HardwarePersonalProjectsSelect,Which computing hardware do you use for your personal ML/DS projects? - Selected Choice,Learners
+HardwarePersonalProjectsFreeForm,Which computing hardware do you use for your personal ML/DS projects? - Other - Text,Learners
+TimeSpentStudying,"On average, how many hours a week do you spend studying data science?",Learners
+ProveKnowledgeSelect,What's the most important way you can prove your knowledge of ML/DS? (Select one option) - Selected Choice,Learners
+ProveKnowledgeFreeForm,What's the most important way you can prove your knowledge of ML/DS? (Select one option) - Other - Text,Learners
+ImpactfulAlgorithmFreeForm,What's the most impactful machine learning algorithm you've ever deployed?,All
+InterestingProblemFreeForm,"If given the necessary resources and time, what problem would you personally choose to tackle with machine learning?",All
+DataScienceIdentitySelect,Do you currently consider yourself a data scientist? - Selected Choice,All
+DataScienceIdentityFreeForm,Do you currently consider yourself a data scientist? - Sort of (Explain more) - Text,All
+FormalEducation,Which level of formal education have you attained?,All
+MajorSelect,Which best describes your undergraduate major? - Selected Choice,All
+MajorFreeForm,Which best describes your undergraduate major? - Other - Text,All
+Tenure,How long have you been writing code to analyze data?,All
+PastJobTitlesSelect,Select all other job titles you've held in the past 10 years? (Select all that apply) - Selected Choice,All
+PastJobTitlesFreeForm,Select all other job titles you've held in the past 10 years? (Select all that apply) - Other - Text,All
+FirstTrainingSelect,How did you first start your machine learning / data science training? (Select one option) - Selected Choice,All
+FirstTrainingFreeForm,How did you first start your machine learning / data science training? (Select one option) - Other - Text,All
+LearningCategorySelftTaught,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Self-taught,All
+LearningCategoryOnlineCourses,"What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Online courses (coursera, udemy, edx, ..etc.)",All
+LearningCategoryWork,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Work,All
+LearningCategoryUniversity,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - University,All
+LearningCategoryKaggle,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Kaggle competitions,All
+LearningCategoryOther,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Other,All
+LearningCategoryOtherFreeForm,What percentage of your current machine learning / data science training falls under each category? (Total must equal 100%) - Other - Text,All
+MLSkillsSelect,In which areas of machine learning do you consider yourself competent? (Select all that apply) - Selected Choice,All
+MLSkillsFreeForm,In which areas of machine learning do you consider yourself competent? (Select all that apply) - Other (please specify; separate by semi-colon) - Text,All
+MLTechniquesSelect,In which machine learning techniques do you consider yourself competent? (Select all that apply) - Selected Choice,All
+MLTechniquesFreeform,In which machine learning techniques do you consider yourself competent? (Select all that apply) - Other (please specify; separate by semi-colon) - Text,All
+ParentsEducation,What's the highest level of education completed by either of your parents?,All
+EmployerIndustry,Which industry is your current employer/contract in (or most recent employer if retired)? - Selected Choice,Worker
+EmployerIndustryOtherFreeForm,Which industry is your current employer/contract in (or most recent employer if retired)? - Other - Text,Worker
+EmployerSize,How many employees work at your current or most recent company?,CodingWorker-NC
+EmployerSizeChange,How has the size of your organization's ML/DS staff changed over the past year?,CodingWorker-NC
+EmployerMLTime,How many years has your organization been utilizing advanced analytics/data science?,CodingWorker-NC
+EmployerSearchMethod,How did you find your current job? - Selected Choice,CodingWorker-NC
+EmployerSearchMethodOtherFreeForm,How did you find your current job? - Some other way - Text,CodingWorker-NC
+UniversityImportance,How important was your formal education or degree to your career success analyzing data?,CodingWorker
+JobFunctionSelect,What is the primary function of your role? (Select one option) - Selected Choice,CodingWorker
+JobFunctionFreeForm,What is the primary function of your role? (Select one option) - Other - Text,CodingWorker
+WorkHardwareSelect,"At work, which computing hardware do you use for ML/DS projects? - Selected Choice",CodingWorker
+WorkHardwareFreeForm,"At work, which computing hardware do you use for ML/DS projects? - Other - Text",CodingWorker
+WorkDataTypeSelect,"At work, which kind of data do you typically work with? - Selected Choice",CodingWorker
+WorkDataTypeFreeForm,"At work, which kind of data do you typically work with? - Other - Text",CodingWorker
+WorkProductionFrequency,"At work, how often do the models you build get put into production?",CodingWorker
+WorkLibrariesFreeForm,"At work, which libraries do you typically use? (Please separate different answers with semicolons)",CodingWorker
+WorkDatasetSize,"Of the models you've trained at work, what is the typical size of datasets used?",CodingWorker
+WorkAlgorithmsSelect,"At work, which algorithms/analytic methods do you typically use? (Select all that apply) - Selected Choice",CodingWorker
+WorkAlgorithmsFreeForm,"At work, which algorithms/analytic methods do you typically use? (Select all that apply) - Other - Text",CodingWorker
+WorkToolsSelect,"For work, which data science/analytics tools, technologies, and languages have you used in the past year? (Select all that apply) - Selected Choice",CodingWorker
+WorkToolsFreeForm1,"For work, which data science/analytics tools, technologies, and languages have you used in the past year? (Select all that apply) - Other - Text1",CodingWorker
+WorkToolsFreeForm2,"For work, which data science/analytics tools, technologies, and languages have you used in the past year? (Select all that apply) - Other - Text2",CodingWorker
+WorkToolsFreeForm3,"For work, which data science/analytics tools, technologies, and languages have you used in the past year? (Select all that apply) - Other - Text3",CodingWorker
+WorkToolsFrequencyAmazonML,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Amazon Machine Learning",CodingWorker
+WorkToolsFrequencyAWS,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Amazon Web services",CodingWorker
+WorkToolsFrequencyAngoss,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Angoss",CodingWorker
+WorkToolsFrequencyC,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - C/C++",CodingWorker
+WorkToolsFrequencyCloudera,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Cloudera",CodingWorker
+WorkToolsFrequencyDataRobot,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - DataRobot",CodingWorker
+WorkToolsFrequencyFlume,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Flume",CodingWorker
+WorkToolsFrequencyGCP,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Google Cloud Compute",CodingWorker
+WorkToolsFrequencyHadoop,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Hadoop/Hive/Pig",CodingWorker
+WorkToolsFrequencyIBMCognos,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - IBM Cognos",CodingWorker
+WorkToolsFrequencyIBMSPSSModeler,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - IBM SPSS Modeler",CodingWorker
+WorkToolsFrequencyIBMSPSSStatistics,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - IBM SPSS Statistics",CodingWorker
+WorkToolsFrequencyIBMWatson,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - IBM Watson / Waton Analytics",CodingWorker
+WorkToolsFrequencyImpala,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Impala",CodingWorker
+WorkToolsFrequencyJava,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Java",CodingWorker
+WorkToolsFrequencyJulia,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Julia",CodingWorker
+WorkToolsFrequencyJupyter,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Jupyter notebooks",CodingWorker
+WorkToolsFrequencyKNIMECommercial,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - KNIME (commercial version)",CodingWorker
+WorkToolsFrequencyKNIMEFree,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - KNIME (free version)",CodingWorker
+WorkToolsFrequencyMathematica,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Mathematica",CodingWorker
+WorkToolsFrequencyMATLAB,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - MATLAB/Octave",CodingWorker
+WorkToolsFrequencyAzure,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Microsoft Azure Machine Learning",CodingWorker
+WorkToolsFrequencyExcel,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Microsoft Excel Data Mining",CodingWorker
+WorkToolsFrequencyMicrosoftRServer,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Microsoft R Server (Formerly Revolution Analytics)",CodingWorker
+WorkToolsFrequencyMicrosoftSQL,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Microsoft SQL Server Data Mining",CodingWorker
+WorkToolsFrequencyMinitab,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Minitab",CodingWorker
+WorkToolsFrequencyNoSQL,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - NoSQL",CodingWorker
+WorkToolsFrequencyOracle,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Oracle Data Mining/ Oracle R Enterprise",CodingWorker
+WorkToolsFrequencyOrange,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Orange",CodingWorker
+WorkToolsFrequencyPerl,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Perl",CodingWorker
+WorkToolsFrequencyPython,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Python",CodingWorker
+WorkToolsFrequencyQlik,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - QlikView",CodingWorker
+WorkToolsFrequencyR,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - R",CodingWorker
+WorkToolsFrequencyRapidMinerCommercial,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - RapidMiner (commercial version)",CodingWorker
+WorkToolsFrequencyRapidMinerFree,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - RapidMiner (free version)",CodingWorker
+WorkToolsFrequencySalfrod,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Salfrod Systems CART, MARS, TreeNet, RF, SPM",CodingWorker
+WorkToolsFrequencySAPBusinessObjects,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SAP BusinessObjects Predictive Analytics",CodingWorker
+WorkToolsFrequencySASBase,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SAS Base",CodingWorker
+WorkToolsFrequencySASEnterprise,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SAS Enterprise Miner",CodingWorker
+WorkToolsFrequencySASJMP,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SAS JMP",CodingWorker
+WorkToolsFrequencySpark,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Spark / MLlib",CodingWorker
+WorkToolsFrequencySQL,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SQL",CodingWorker
+WorkToolsFrequencyStan,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Stan",CodingWorker
+WorkToolsFrequencyStatistica,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Statistica (Quest/Dell, formerly Statsoft)",CodingWorker
+WorkToolsFrequencyTableau,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Tableau",CodingWorker
+WorkToolsFrequencyTensorFlow,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - TensorFlow",CodingWorker
+WorkToolsFrequencyTIBCO,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - TIBCO Spotfire",CodingWorker
+WorkToolsFrequencyUnix,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Unix shell / awk",CodingWorker
+WorkToolsFrequencySelect1,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other1",CodingWorker
+WorkToolsFrequencySelect1FreeForm,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other - Text1",CodingWorker
+WorkToolsFrequencySelect2,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other2",CodingWorker
+WorkFrequencySelect2FreeForm,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other - Text2",CodingWorker
+WorkFrequencySelect3,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other3",CodingWorker
+WorkFrequencySelect3FreeForm,"At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Other - Text3",CodingWorker
+WorkMethodsSelect,"At work, which data science methods do you use? (Select all that apply) - Selected Choice",CodingWorker
+WorkMethodsFreeForm1,"At work, which data science methods do you use? (Select all that apply) - Other - Text1",CodingWorker
+WorkMethodsFreeForm2,"At work, which data science methods do you use? (Select all that apply) - Other - Text2",CodingWorker
+WorkMethodsFreeForm3,"At work, which data science methods do you use? (Select all that apply) - Other - Text3",CodingWorker
+WorkMethodsFrequencyA/B,"At work, how often do you use the following data science methods? - A/B Testing",CodingWorker
+WorkMethodsFrequencyAssociationRules,"At work, how often do you use the following data science methods? - Association Rules",CodingWorker
+WorkMethodsFrequencyBayesian,"At work, how often do you use the following data science methods? - Bayesian Techniques",CodingWorker
+WorkMethodsFrequencyCNNs,"At work, how often do you use the following data science methods? - CNNs",CodingWorker
+WorkMethodsFrequencyCollaborativeFiltering,"At work, how often do you use the following data science methods? - Collaborative Filtering",CodingWorker
+WorkMethodsFrequencyCross-Validation,"At work, how often do you use the following data science methods? - Cross-Validation",CodingWorker
+WorkMethodsFrequencyDataVisualization,"At work, how often do you use the following data science methods? - Data Visualization",CodingWorker
+WorkMethodsFrequencyDecisionTrees,"At work, how often do you use the following data science methods? - Decision Trees",CodingWorker
+WorkMethodsFrequencyEnsembleMethods,"At work, how often do you use the following data science methods? - Ensemble Methods",CodingWorker
+WorkMethodsFrequencyEvolutionaryApproaches,"At work, how often do you use the following data science methods? - Evolutionary Approaches",CodingWorker
+WorkMethodsFrequencyGANs,"At work, how often do you use the following data science methods? - GANs",CodingWorker
+WorkMethodsFrequencyGBM,"At work, how often do you use the following data science methods? - Gradient Boosted Machines",CodingWorker
+WorkMethodsFrequencyHMMs,"At work, how often do you use the following data science methods? - HMMs",CodingWorker
+WorkMethodsFrequencyKNN,"At work, how often do you use the following data science methods? - kNN and Other Clustering",CodingWorker
+WorkMethodsFrequencyLiftAnalysis,"At work, how often do you use the following data science methods? - Lift Analysis",CodingWorker
+WorkMethodsFrequencyLogisticRegression,"At work, how often do you use the following data science methods? - Logistic Regression",CodingWorker
+WorkMethodsFrequencyMLN,"At work, how often do you use the following data science methods? - Markov Logic Networks",CodingWorker
+WorkMethodsFrequencyNaiveBayes,"At work, how often do you use the following data science methods? - Naive Bayes",CodingWorker
+WorkMethodsFrequencyNLP,"At work, how often do you use the following data science methods? - Natural Language Processing",CodingWorker
+WorkMethodsFrequencyNeuralNetworks,"At work, how often do you use the following data science methods? - Neural Networks",CodingWorker
+WorkMethodsFrequencyPCA,"At work, how often do you use the following data science methods? - PCA and Dimensionality Reduction",CodingWorker
+WorkMethodsFrequencyPrescriptiveModeling,"At work, how often do you use the following data science methods? - Prescriptive Modeling",CodingWorker
+WorkMethodsFrequencyRandomForests,"At work, how often do you use the following data science methods? - Random Forests",CodingWorker
+WorkMethodsFrequencyRecommenderSystems,"At work, how often do you use the following data science methods? - Recommender Systems",CodingWorker
+WorkMethodsFrequencyRNNs,"At work, how often do you use the following data science methods? - RNNs",CodingWorker
+WorkMethodsFrequencySegmentation,"At work, how often do you use the following data science methods? - Segmentation",CodingWorker
+WorkMethodsFrequencySimulation,"At work, how often do you use the following data science methods? - Simulation",CodingWorker
+WorkMethodsFrequencySVMs,"At work, how often do you use the following data science methods? - SVMs",CodingWorker
+WorkMethodsFrequencyTextAnalysis,"At work, how often do you use the following data science methods? - Text Analytics",CodingWorker
+WorkMethodsFrequencyTimeSeriesAnalysis,"At work, how often do you use the following data science methods? - Time Series Analysis",CodingWorker
+WorkMethodsFrequencySelect1,"At work, how often do you use the following data science methods? - Other1",CodingWorker
+WorkMethodsFrequencySelect1FreeForm,"At work, how often do you use the following data science methods? - Other - Text1",CodingWorker
+WorkMethodsFrequencySelect2,"At work, how often do you use the following data science methods? - Other2",CodingWorker
+WorkMethodsFrequencySelect2FreeForm,"At work, how often do you use the following data science methods? - Other - Text2",CodingWorker
+WorkMethodsFrequencySelect3,"At work, how often do you use the following data science methods? - Other3",CodingWorker
+WorkMethodsFrequencySelect3FreeForm,"At work, how often do you use the following data science methods? - Other - Text3",CodingWorker
+TimeGatheringData,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Gathering and cleaning data",CodingWorker
+TimeModelBuilding,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Model building/model selection",CodingWorker
+TimeProduction,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Putting your work into production",CodingWorker
+TimeVisualizing,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Visualizing data",CodingWorker
+TimeFindingInsights,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Finding insights in the data and communicating these to relevant stakeholders",CodingWorker
+TimeOtherSelect,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Other",CodingWorker
+TimeOtherSelectFreeForm,"At work, on average, what percentage of your time is devoted to:  (Total must equal 100%) - Other - Text",CodingWorker
+AlgorithmUnderstandingLevel,At which level do you understand the mathematics behind the algorithms you use at work?,CodingWorker
+WorkChallengesSelect,"At work, which barriers or challenges have you faced this past year? (Select all that apply) - Selected Choice",CodingWorker
+WorkChallengesFreeForm,"At work, which barriers or challenges have you faced this past year? (Select all that apply) - Other - Text",CodingWorker
+WorkChallengeFrequencyPolitics,"At work, how often did you experience these barriers or challenges within the past year? - Company politics / Lack of management/financial support for a data science team",CodingWorker
+WorkChallengeFrequencyUnusedResults,"At work, how often did you experience these barriers or challenges within the past year? - Data Science results not used by business decision makers",CodingWorker
+WorkChallengeFrequencyUnusefulInstrumenting,"At work, how often did you experience these barriers or challenges within the past year? - Did not instrument data useful for scientific analysis and decision-making",CodingWorker
+WorkChallengeFrequencyDeployment,"At work, how often did you experience these barriers or challenges within the past year? - Difficulties in deployment/scoring",CodingWorker
+WorkChallengeFrequencyDirtyData,"At work, how often did you experience these barriers or challenges within the past year? - Dirty data",CodingWorker
+WorkChallengeFrequencyExplaining,"At work, how often did you experience these barriers or challenges within the past year? - Explaining data science to others",CodingWorker
+WorkChallengeFrequencyPass,"At work, how often did you experience these barriers or challenges within the past year? - I prefer not to say",CodingWorker
+WorkChallengeFrequencyIntegration,"At work, how often did you experience these barriers or challenges within the past year? - Inability to integrate findings into organization's decision-making process",CodingWorker
+WorkChallengeFrequencyTalent,"At work, how often did you experience these barriers or challenges within the past year? - Lack of data science talent in the organization",CodingWorker
+WorkChallengeFrequencyDataFunds,"At work, how often did you experience these barriers or challenges within the past year? - Lack of funds to buy useful datasets from external sources",CodingWorker
+WorkChallengeFrequencyDomainExpertise,"At work, how often did you experience these barriers or challenges within the past year? - Lack of significant domain expert input",CodingWorker
+WorkChallengeFrequencyML,"At work, how often did you experience these barriers or challenges within the past year? - Limitations in the state of the art in machine learning",CodingWorker
+WorkChallengeFrequencyTools,"At work, how often did you experience these barriers or challenges within the past year? - Limitations of tools",CodingWorker
+WorkChallengeFrequencyExpectations,"At work, how often did you experience these barriers or challenges within the past year? - Maintaining responsible expectations about the potential impact of data science projects",CodingWorker
+WorkChallengeFrequencyITCoordination,"At work, how often did you experience these barriers or challenges within the past year? - Need to coordinate with IT",CodingWorker
+WorkChallengeFrequencyHiringFunds,"At work, how often did you experience these barriers or challenges within the past year? - Organization is small and cannot afford a data science team",CodingWorker
+WorkChallengeFrequencyPrivacy,"At work, how often did you experience these barriers or challenges within the past year? - Privacy issues",CodingWorker
+WorkChallengeFrequencyScaling,"At work, how often did you experience these barriers or challenges within the past year? - Scaling data science solution up to full database",CodingWorker
+WorkChallengeFrequencyEnvironments,"At work, how often did you experience these barriers or challenges within the past year? - Team using multiple ad-hoc development environments such as Python, R, Java, etc.",CodingWorker
+WorkChallengeFrequencyClarity,"At work, how often did you experience these barriers or challenges within the past year? - The lack of a clear question to be answering, or a clear direction to go in, with the available data",CodingWorker
+WorkChallengeFrequencyDataAccess,"At work, how often did you experience these barriers or challenges within the past year? - Unavailability of/difficult access to data",CodingWorker
+WorkChallengeFrequencyOtherSelect,"At work, how often did you experience these barriers or challenges within the past year? - Other",CodingWorker
+WorkChallengeFrequencyOtherFreeForm,"At work, how often did you experience these barriers or challenges within the past year? - Other - Text",CodingWorker
+WorkDataVisualizations,"At work, what proportion of your analytics projects incorporate data visualization?",CodingWorker
+WorkInternalVsExternalTools,"At work, to what degree does your team use interval versus external resources for data science projects? (Select one option)",CodingWorker
+WorkMLTeamSeatSelect,"At work, where does the data scientist team sit within the organization? - Selected Choice",CodingWorker
+WorkMLTeamSeatFreeForm,"At work, where does the data scientist team sit within the organization? - Other - Text",CodingWorker
+WorkDatasets,"At work, in addition to proprietary data, what third party and public datasets do you work with? (Please separate different answers with semicolons)",CodingWorker
+WorkDatasetsChallenge,What is your biggest challenge for working with your source data?,CodingWorker
+WorkDataStorage,"At work, which of these data storage models do you typically use? (Select all that apply) - Selected Choice",CodingWorker
+WorkDataStorageFreeForm,"At work, which of these data storage models do you typically use? (Select all that apply) - Other - Text",CodingWorker
+WorkDataSharing,"At work, which tools do you use to share source data? (Select all that apply) - Selected Choice",CodingWorker
+WorkDataSourcing,"At work, which tools do you use to share source data? (Select all that apply) - Other - Text",CodingWorker
+WorkCodeSharing,"At work, which tools do you use to share code? (Select all that apply) - Selected Choice",CodingWorker
+WorkCodeSharingFreeForm,"At work, which tools do you use to share code? (Select all that apply) - Other - Text",CodingWorker
+RemoteWork,How often do you work remotely?,CodingWorker
+CompensationAmount,"What is your current total yearly compensation (salary + bonus)? - Total Amount (e.g. 75,000) - Your Compensation: -",CodingWorker
+CompensationCurrency,What is your current total yearly compensation (salary + bonus)? - Choose your currency: - Your Compensation:,CodingWorker
+SalaryChange,How has your salary/compensation changed in the past 3 years? - Selected Choice,CodingWorker
+SalaryChangeFreeForm,How has your salary/compensation changed in the past 3 years? - Other - Text,CodingWorker
+JobSatisfaction,"On a scale from 0 (Highly Dissatisfied) - 10 (Highly Satisfied), how satisfied are you with your current job?",CodingWorker
+JobSearchResource,Which resource has been the best for finding data science job openings? (Select one option) - Selected Choice,Learners
+JobSearchResourceFreeForm,Which resource has been the best for finding data science job openings? (Select one option) - Other - Text,Learners
+JobHuntTime,How many hours per week have you typically spend looking for a data science job?,Learners
+JobFactorLearning,How are you assessing potential job opportunities? - Opportunities for professional development,Learners
+JobFactorSalary,How are you assessing potential job opportunities? - The compensation and benefits offered,Learners
+JobFactorOffice,How are you assessing potential job opportunities? - The office environment I'd be working in,Learners
+JobFactorLanguages,"How are you assessing potential job opportunities? - The languages, frameworks, and other technologies I'd be working with",Learners
+JobFactorCommute,How are you assessing potential job opportunities? - The amount of time I'd have to spend commuting,Learners
+JobFactorManagement,How are you assessing potential job opportunities? - How projects are managed at the company or organization,Learners
+JobFactorExperienceLevel,How are you assessing potential job opportunities? - The experience level called for in the job description,Learners
+JobFactorDepartment,How are you assessing potential job opportunities? - The specific department or team I'd be working on,Learners
+JobFactorTitle,How are you assessing potential job opportunities? - The specific role or job title I'd be applying for,Learners
+JobFactorCompanyFunding,How are you assessing potential job opportunities? - The financial performance or funding status of the company or organization,Learners
+JobFactorImpact,How are you assessing potential job opportunities? - How widely used or impactful the product or service I'd be working on is,Learners
+JobFactorRemote,How are you assessing potential job opportunities? - The opportunity to work from home/remotely,Learners
+JobFactorIndustry,How are you assessing potential job opportunities? - The industry that I'd be working in,Learners
+JobFactorLeaderReputation,How are you assessing potential job opportunities? - The reputations of the company's senior leaders,Learners
+JobFactorDiversity,How are you assessing potential job opportunities? - The diversity of the company or organization,Learners
+JobFactorPublishingOpportunity,How are you assessing potential job opportunities? - Opportunity to publish my results,Learners
