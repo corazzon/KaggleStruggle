@@ -12,7 +12,6 @@ from multiprocessing import Pool
 
 class KaggleWord2VecUtility(object):
 
-
     @staticmethod
     def review_to_wordlist(review, remove_stopwords=False):
         # 1. HTML 제거
@@ -31,6 +30,12 @@ class KaggleWord2VecUtility(object):
         # 6. 리스트 형태로 반환
         return(words)
 
+    @staticmethod
+    def review_to_join_words( review, remove_stopwords=False ):
+        words = KaggleWord2VecUtility.review_to_wordlist(\
+            review, remove_stopwords=False)
+        join_words = ' '.join(words)
+        return join_words
 
     @staticmethod
     def review_to_sentences( review, remove_stopwords=False ):
